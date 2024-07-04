@@ -18,7 +18,3 @@ To Allow Customization: Enable users to customize their investment preferences, 
 
 To Enable Performance Tracking: Allow users to track the performance of their investments over time and make adjustments as necessary.
 
-HOW TO START THIS PROJECT:RUN THE MAIN PROGRAM
-AUTHORS:Hafizul Rahman
-
-
